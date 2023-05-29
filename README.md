@@ -34,13 +34,14 @@ fighter spaceship and try to shoot down aliens.
 Usage
 
 1. Navigate to the project directory:
-   cd [project directory]
+   cd PyGameShooter
 2. Run the game:
-   python game.py
+   python main.py
 
 Acknowledgements
 I would like to thank Bogdan Stashchuk for providing this game,
 which helped me develop this game.
 
 Deployment
-The game can be deployed using [URL]
+The game can be deployed
+using https://replit.com/@AndrieiDiachie2/PyGameShooter
